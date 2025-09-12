@@ -42,6 +42,7 @@ class TTexts {
   static const String resendEmail = "Resend Email";
   static const String resendEmailIn = "Resend email in";
   static const String done = "Done";
+  static const String logOut = "Log Out";
 
   // -- Authentication Headings Text
   static const String loginTitle = "Welcome Back!";
@@ -57,4 +58,15 @@ class TTexts {
   static const String yourAccountCreatedTitle = "Your account has been successfully created!";
   static const String yourAccountCreatedSubTitle = "Welcome to FairShare: Your Account is Created, Settling up debts has never been so easy!";
 
+  // -- Home Screen
+  static const String homeTitle = "Settle Up Fairly, Live Better";
+  static const String appDescription = "FairShare is an intuitive app designed to simplify expense management within groups. Whether you're traveling, sharing an apartment, or dining out with friends, FairShare helps you track expenses, assign them to group members, and calculate who owes whom. The app ensures a fair settlement by minimizing the number of transactions required, saving both time and effort.";
+  static const String keyFeatures = "Key Features";
+  static const String featureOne = "Register & log in (Google integration via Firebase)";
+  static const String featureTwo = "Create and manage groups with archiving option";
+  static const String featureThree = "Add, edit, and assign expenses to group members";
+  static const String featureFour = "Smart settlement with minimal transactions";
+  static const String featureFive = "Multi-currency support";
+  static const String featureSix = "Receipt scanning & OCR for automatic amount detection";
+  static const String hintText = "Don’t have a group yet? Create your first one and start sharing expenses today!";
 }

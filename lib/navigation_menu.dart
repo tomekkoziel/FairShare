@@ -1,5 +1,6 @@
+import 'package:fair_share/features/application/screens/groups/groups.dart';
 import 'package:fair_share/features/application/screens/home/home.dart';
-import 'package:fair_share/features/authentication/screens/login/login.dart';
+import 'package:fair_share/features/personalization/screens/profile.dart';
 import 'package:fair_share/utils/constants/colors.dart';
 import 'package:fair_share/utils/helpers/helper_functions.dart';
 import 'package:flutter/material.dart';
@@ -45,5 +46,5 @@ class NavigationMenu extends StatelessWidget {
 class NavigationController extends GetxController {
   final Rx<int> selectedIndex = 0.obs;
 
-  final screens = [const HomeScreen(), Container(color: Colors.purple,), Container(color: Colors.orange,)]; //const HomeScreen()
+  final screens = [const HomeScreen(), const GroupsScreen(), const ProfileScreen()];
 }
