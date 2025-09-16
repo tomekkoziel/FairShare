@@ -8,6 +8,9 @@ class TColors {
   static const Color secondary = Color(0xFFFFE24B);
   static const Color accent = Color(0xFFb0c7ff);
 
+  // Dashboard Specific Colors
+  static const Color dashboardAppbarBackground = Color(0xFF4b68ff);
+  
   // Gradient Colors
   static const Gradient linearGradient = LinearGradient(
     begin: Alignment(0.0, 0.0),

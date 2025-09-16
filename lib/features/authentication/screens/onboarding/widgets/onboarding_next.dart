@@ -4,7 +4,7 @@ import 'package:fair_share/utils/device/device_utility.dart';
 import 'package:fair_share/utils/helpers/helper_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:fair_share/features/authentication/controllers.onboarding/onboarding_controller.dart';
+import 'package:fair_share/features/authentication/controllers/onboarding/onboarding_controller.dart';
 
 class OnBoardingNextButton extends StatelessWidget {
   const OnBoardingNextButton({ super.key,});

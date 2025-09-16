@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1068006410663",
+    "project_id": "fairshare-e79b2",
+    "storage_bucket": "fairshare-e79b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068006410663:android:8ab9c93666bb58404dce82",
+        "android_client_info": {
+          "package_name": "com.example.fair_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068006410663-ti1ntk2d6ebudan6nh271k6hf13mnh73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fair_share",
+            "certificate_hash": "8f1ea5bd69a96b451d9046544732988744f5eb54"
+          }
+        },
+        {
+          "client_id": "1068006410663-1g81m13dpj9fjk41mgt28cemavkfjckt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-WabcO3gqMZDD_HgM14K0p8QH0nkTchw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068006410663-1g81m13dpj9fjk41mgt28cemavkfjckt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068006410663-lqldh2r8t6vfifs7nnrdlkdfl8c9qqm2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fairShare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

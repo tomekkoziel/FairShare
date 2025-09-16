@@ -1,4 +1,4 @@
-import 'package:fair_share/features/authentication/controllers.onboarding/onboarding_controller.dart';
+import 'package:fair_share/features/authentication/controllers/onboarding/onboarding_controller.dart';
 import 'package:fair_share/utils/constants/text_strings.dart';
 import 'package:flutter/material.dart';
 import 'package:fair_share/utils/constants/image_strings.dart';
